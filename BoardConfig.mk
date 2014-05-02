@@ -38,6 +38,3 @@ BOARD_USES_STEREO_HW_SPEAKER := true
 
 # No back mic
 BOARD_HAVE_BACK_MIC_CAMCORDER := false
-
-# CM Hardware tunables
-BOARD_HARDWARE_CLASS += device/semc/coconut/cmhw
